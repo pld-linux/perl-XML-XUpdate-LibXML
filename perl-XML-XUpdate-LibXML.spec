@@ -42,7 +42,6 @@ Implementacja jest oparta na API DOM z XML::LibXML.
 %build
 %{__perl} Makefile.PL \
 	INSTALLDIRS=vendor
-
 %{__make}
 
 %{?with_tests:%{__make} test}

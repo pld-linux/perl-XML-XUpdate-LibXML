@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	XML
-%define	pnam	XUpdate-LibXML
+%define		pdir	XML
+%define		pnam	XUpdate-LibXML
 Summary:	XML::XUpdate::LibXML - simple implementation of XUpdate format
 Summary(pl):	XML::XUpdate::LibXML - prosta implementacja formatu XUpdate
 Name:		perl-XML-XUpdate-LibXML

@@ -5,7 +5,7 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	XML
 %define	pnam	XUpdate-LibXML
-Summary:	XML::XUpdate::LibXML - simplie implementation of XUpdate format
+Summary:	XML::XUpdate::LibXML - simple implementation of XUpdate format
 Summary(pl):	XML::XUpdate::LibXML - prosta implementacja formatu XUpdate
 Name:		perl-XML-XUpdate-LibXML
 Version:	0.5.0

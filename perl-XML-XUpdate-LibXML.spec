@@ -8,12 +8,12 @@
 Summary:	XML::XUpdate::LibXML - simple implementation of XUpdate format
 Summary(pl):	XML::XUpdate::LibXML - prosta implementacja formatu XUpdate
 Name:		perl-XML-XUpdate-LibXML
-Version:	0.5.0
-Release:	2
+Version:	0.6.0
+Release:	1
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	403f424f162f71f41d41e3eaedefcf4e
+# Source0-md5:	feee3db4ab0a0520d9b1f17b50f74693
 %if %{with tests}
 BuildRequires:	perl-XML-LibXML >= 1.54
 BuildRequires:	perl-XML-LibXML-Iterator

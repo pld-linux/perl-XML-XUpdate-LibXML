@@ -6,7 +6,7 @@
 %define		pdir	XML
 %define		pnam	XUpdate-LibXML
 Summary:	XML::XUpdate::LibXML - simple implementation of XUpdate format
-Summary(pl.UTF-8):   XML::XUpdate::LibXML - prosta implementacja formatu XUpdate
+Summary(pl.UTF-8):	XML::XUpdate::LibXML - prosta implementacja formatu XUpdate
 Name:		perl-XML-XUpdate-LibXML
 Version:	0.6.0
 Release:	1
